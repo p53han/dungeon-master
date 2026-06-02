@@ -2,11 +2,11 @@
 
 A personal solo TTRPG harness where Python owns deterministic mechanics and a LiteLLM-routed model is restricted to narration. The frontend is a bespoke Svelte 5 grimoire UI; the backend is a FastAPI server.
 
-[![Desktop beta v0.1.1](https://img.shields.io/badge/desktop%20beta-v0.1.1-b08a36)](https://github.com/armantark/Dungeon-Master/releases/tag/desktop-v0.1.1)
-[![macOS Apple Silicon](https://img.shields.io/badge/macOS-Apple%20Silicon-6f5f2f)](https://github.com/armantark/Dungeon-Master/releases/download/desktop-v0.1.1/Dungeon.Master_0.1.1_aarch64.dmg)
-[![Windows x64](https://img.shields.io/badge/Windows-x64-6f5f2f)](https://github.com/armantark/Dungeon-Master/releases/download/desktop-v0.1.1/Dungeon.Master_0.1.1_x64-setup.exe)
-[![Linux AppImage](https://img.shields.io/badge/Linux-AppImage-6f5f2f)](https://github.com/armantark/Dungeon-Master/releases/download/desktop-v0.1.1/Dungeon.Master_0.1.1_amd64.AppImage)
-[![Release notes](https://img.shields.io/badge/release%20notes-GitHub-6f5f2f)](https://github.com/armantark/Dungeon-Master/releases)
+[![Desktop beta v0.1.1](https://img.shields.io/badge/desktop%20beta-v0.1.1-b08a36)](https://github.com/p53han/dungeon-master/releases/tag/desktop-v0.1.1)
+[![macOS Apple Silicon](https://img.shields.io/badge/macOS-Apple%20Silicon-6f5f2f)](https://github.com/p53han/dungeon-master/releases/download/desktop-v0.1.1/Dungeon.Master_0.1.1_aarch64.dmg)
+[![Windows x64](https://img.shields.io/badge/Windows-x64-6f5f2f)](https://github.com/armantark/p53han/dungeon-master/download/desktop-v0.1.1/Dungeon.Master_0.1.1_x64-setup.exe)
+[![Linux AppImage](https://img.shields.io/badge/Linux-AppImage-6f5f2f)](https://github.com/armantark/p53han/dungeon-master/download/desktop-v0.1.1/Dungeon.Master_0.1.1_amd64.AppImage)
+[![Release notes](https://img.shields.io/badge/release%20notes-GitHub-6f5f2f)](https://github.com/p53han/dungeon-master/releases)
 
 ## Screenshots
 
